@@ -2,7 +2,7 @@
 
 > Personal portfolio website showcasing my software development journey, projects, technical skills, education, certifications, and achievements.
 
-🌐 **Live Portfolio:** https://shuvam-portfolio-two.vercel.app
+🌐 **Live Portfolio:** https://shuvamsau.vercel.app/
 💻 **GitHub:** https://github.com/saushuvam
 💼 **LinkedIn:** https://linkedin.com/in/shuvam-sau-87318b361
 📧 **Email:** [saushuvam@gmail.com](mailto:saushuvam@gmail.com)
